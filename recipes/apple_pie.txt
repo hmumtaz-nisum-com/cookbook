@@ -1,1 +1,8 @@
 apple_pie.txt
+
+pastry
+butter
+flour
+sugar
+apples
+cinnamon
