@@ -3,6 +3,5 @@ apple_pie.txt
 pastry
 butter
 flour
-sugar
 2 adad apples
 1 tbsp cinnamon
